@@ -1,6 +1,6 @@
 import random
 import re
-import cv
+
 class Supportbot:
     negative_res=("no","nope","not a chance","may not","may","sorry")
     exit_res=("bye","Thank you","Exit","Pause")
