@@ -1,6 +1,6 @@
 import random
 import re
-
+#define a class for having the functions 
 class Supportbot:
     negative_res=("no","nope","not a chance","may not","may","sorry")
     exit_res=("bye","Thank you","Exit","Pause")
