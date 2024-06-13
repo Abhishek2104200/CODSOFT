@@ -72,5 +72,6 @@ class Supportbot:
                "I'm sorry,I did'nt quite understand that,Can you rephrase it?\n")
         return random.choice(responses)
 
+#now create an object 
 bot=Supportbot()
 bot.greet()
