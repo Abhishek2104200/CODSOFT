@@ -2,8 +2,6 @@ import math
 from copy import deepcopy
 import numpy as np
 
-
-
 x="X"
 o="O"
 EMPTY =None
